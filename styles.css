@@ -312,11 +312,11 @@ h3 {
 .transboxff {
   border-radius: 50%;
   margin-top: 2%;
-  margin-left: 45%;
+  margin-left: 55%;
   width: 150px;
   height: 150px;
   background: rgba(194, 222, 209, 0.3);
-  padding: 3%;
+  padding: 5%;
   color: #440A67;
   font-family: 'Akaya Kanadaka', cursive;
   display: flex;
@@ -386,6 +386,19 @@ margin-top: 75%;
   margin-left: 20%;
 }
 
+/* ////////////////////////////////////////////////////////////////////////////////////////////////////// */
+/* ICU&CO TABLET */
+.transboxff {
+  margin-top: 10%;
+  margin-left: 45%;
+  padding: 5%;
+  font-size: 0.85em;
+}
+
+.inframeicu {
+  scale: 0.8;
+}
+
 }
 
 /* /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
@@ -413,16 +426,16 @@ margin-top: 75%;
     width: 235px;
     height: 235px;
     margin-top: 10%;
-    margin-left: 2%;
+    margin-left: 13%;
 
 }
 
   div.transbox:hover {
-   margin-left: 3%;
+   margin-left: 5%;
 }
 
 #frontfirst {
-  margin-top: 15%;
+  margin-top: 7%;
 }
 
 .textbox {
@@ -447,11 +460,11 @@ margin-top: 75%;
   height: 235px;
   margin-top: 125%;
   margin-bottom: 15%;
-  margin-left: 2%;
+  margin-left: 12%;
 }
 
 div.transbox3:hover {
-margin-left: 5%;
+margin-left: 7%;
 margin-top: 125%;
 }
 
@@ -461,6 +474,19 @@ margin-top: 125%;
   display: flex;
   flex-direction:column;
   justify-content:center;
+}
+
+/* ////////////////////////////////////////////////////////////////////////////////////////////////////// */
+/* ICU&CO MOBILE */
+.transboxff {
+  margin-top: 10%;
+  margin-left: 20%;
+  padding: 10%;
+  font-size: 0.75em;
+}
+
+.inframeicu {
+  scale: 0.8;
 }
 
 }
