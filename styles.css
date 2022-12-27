@@ -459,14 +459,14 @@ margin-top: 90%;
 .transbox3 {
   width: 235px;
   height: 235px;
-  margin-top: 157%;
-  margin-left: 7%;
-  padding: 7%;
+  margin-top: 155%;
+  margin-left: 10%;
+  padding: 8%;
 }
 
 div.transbox3:hover {
-  margin-top: 160%;
-  margin-left: 6%;
+  margin-top: 158%;
+  margin-left: 7%;
 }
 
 
