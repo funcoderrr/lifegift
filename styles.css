@@ -432,7 +432,7 @@ margin-top: 75%;
 
   div.transbox:hover {
    margin-left: 18%;
-   background: rgba(194, 222, 209, 0.6);
+   background: rgba(194, 222, 209, 0.7);
 }
 
 #frontfirst {
@@ -440,7 +440,7 @@ margin-top: 75%;
 }
 
 div.#butterfly:hover {
-  background: rgba(194, 222, 209, 0.7);
+  background: rgba(194, 222, 209, 0.8);
 }
 
 .textbox {
@@ -459,7 +459,7 @@ div.#butterfly:hover {
 div.transbox2:hover {
 margin-left: 15%;
 margin-top: 89%;
-background: rgba(194, 222, 209, 0.6);
+background: rgba(194, 222, 209, 0.7);
 }
 
 .transbox3 {
@@ -473,7 +473,7 @@ background: rgba(194, 222, 209, 0.6);
 div.transbox3:hover {
   margin-top: 155%;
   margin-left: 7%;
-  background: rgba(194, 222, 209, 0.6);
+  background: rgba(194, 222, 209, 0.7);
 }
 
 
