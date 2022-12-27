@@ -426,6 +426,7 @@ margin-top: 75%;
     height: 235px;
     margin-top: 10%;
     margin-left: 13%;
+    padding: 5%;
 }
 
   div.transbox:hover {
@@ -459,6 +460,7 @@ margin-top: 90%;
   height: 235px;
   margin-top: 165%;
   margin-left: 7%;
+  padding: 5%;
 }
 
 div.transbox3:hover {
@@ -468,6 +470,8 @@ div.transbox3:hover {
 
 footer {
   margin-top: 20%;
+  padding-top: 1%;
+  padding-bottom: 1%;
 }
 
 .video {
