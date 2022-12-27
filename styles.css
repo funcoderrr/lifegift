@@ -3,8 +3,6 @@
 .home {
     background: url(images/path.jpg) no-repeat center center fixed;
     background-size: cover;
-    margin: 0px;
-    padding: 0px;
     overflow: hidden;
     overflow-y: scroll;
     overflow-x:hidden;
@@ -18,8 +16,6 @@
 .trueself {
     background: url(images/trueself.jpg) no-repeat center center fixed;
     background-size: cover;
-    margin: 0px;
-    padding: 0px;
     overflow: hidden;
     overflow-y: scroll;
     overflow-x:hidden;
@@ -416,7 +412,7 @@ margin-top: 75%;
 }
 
   footer {
-    margin-top: 20%;
+    /* margin-top: 20%; */
     padding-top: 0%;
     padding-bottom: 0%;
     bottom: 0;
