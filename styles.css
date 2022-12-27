@@ -27,10 +27,8 @@
 }
 
 .gift {
-    /* position: absolute; */
     background: url(images/butterfly.jpg) no-repeat center center fixed;
     background-size: cover;
-    height: 100%;
     overflow: hidden;
     overflow-y: scroll;
     overflow-x:hidden;
@@ -42,10 +40,8 @@
 }
 
 .connection {
-    /* position: absolute; */
     background: url(images/friends.jpeg) no-repeat center center fixed;
     background-size: cover;
-    height: 100%;
     overflow: hidden;
     overflow-y: scroll;
     overflow-x:hidden;
@@ -58,10 +54,8 @@
 
 /* //////////////////////////////////////////////////////////////////////////////////////////// */
 .self {
-    /* position: absolute; */
     background: url(images/self.jpg) no-repeat center center fixed;
     background-size: cover;
-    height: 100%;
     overflow: hidden;
     overflow-y: scroll;
     overflow-x:hidden;
@@ -73,10 +67,8 @@
 }
 
 .life {
-    /* position: absolute; */
     background: url(images/dandelion.jpg) no-repeat center center fixed;
     background-size: cover;
-    height: 100%;
     overflow: hidden;
     overflow-y: scroll;
     overflow-x:hidden;
@@ -88,10 +80,8 @@
 }
 
 .icu {
-    /* position: absolute; */
     background: url(images/gentleness.jpg) no-repeat center center fixed;
     background-size: cover;
-    height: 100%;
     overflow: hidden;
     overflow-y: scroll;
     overflow-x:hidden;
@@ -147,7 +137,9 @@ a:link {
 
 
 footer {
-  padding: 3% 0% 0% 3%;
+  margin-top: 7%;
+  padding-top: 1%;
+  padding-bottom: 1%;
   width: 100%;
   text-align: center;
   font-size: 0.9em;
@@ -412,7 +404,7 @@ margin-top: 75%;
 }
 
   footer {
-    /* margin-top: 20%; */
+    margin-top: 20%;
     padding-top: 0%;
     padding-bottom: 0%;
     bottom: 0;
