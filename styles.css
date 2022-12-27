@@ -324,7 +324,7 @@ h3 {
 }
 
 div.transboxff:hover {
-transform: scale(1.1,1.1);
+transform: scale(1.2,1.2);
 }
 
 .inframeicu {
@@ -492,6 +492,7 @@ div.transbox3:hover {
   margin-left: 20%;
   padding: 10%;
   font-size: 0.75em;
+  background: rgba(194, 222, 209, 0.5);
 }
 
 .inframeicu {
