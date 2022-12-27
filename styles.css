@@ -447,27 +447,27 @@ margin-top: 75%;
 .transbox2 {
   width: 235px;
   height: 235px;
-  margin-top: 90%;
-  margin-left: 23%;
+  margin-top: 89%;
+  margin-left: 24%;
   padding: 8%;
 }
 
 div.transbox2:hover {
 margin-left: 15%;
-margin-top: 90%;
+margin-top: 89%;
 background: rgba(194, 222, 209, 0.6);
 }
 
 .transbox3 {
   width: 235px;
   height: 235px;
-  margin-top: 155%;
+  margin-top: 154%;
   margin-left: 8%;
   padding: 8%;
 }
 
 div.transbox3:hover {
-  margin-top: 158%;
+  margin-top: 155%;
   margin-left: 7%;
   background: rgba(194, 222, 209, 0.6);
 }
