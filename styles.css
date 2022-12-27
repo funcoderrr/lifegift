@@ -439,6 +439,10 @@ margin-top: 75%;
   margin-top: 10%;
 }
 
+div.#butterfly:hover {
+  background: rgba(194, 222, 209, 0.7);
+}
+
 .textbox {
   font-size: 0.7em;
   padding: 2%;
