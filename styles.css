@@ -205,6 +205,10 @@ a.foot:hover {
   color: #440A67;
 }
 
+#signaturealive {
+  margin-left: 43%;
+}
+
 .transbox2 {
   border-radius: 50%;
   width: 300px;
