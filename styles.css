@@ -340,10 +340,15 @@ transform: scale(1.2,1.2);
 }
 
   div.transbox:hover {
+    margin-top: 10%;
    margin-left: 45%;
 }
 
 #frontfirst {
+  margin-top: 10%;
+}
+
+#frontfirst:hover{
   margin-top: 10%;
 }
 
@@ -360,8 +365,7 @@ transform: scale(1.2,1.2);
 }
 
 div.transbox2:hover {
-margin-left: 45%;
-margin-top: 40%;
+   margin-left: 55%;
 }
 
 .transbox3 {
@@ -373,8 +377,8 @@ margin-top: 40%;
 }
 
 div.transbox3:hover {
-margin-left: 45%;
-margin-top: 75%;
+  margin-top: 75%;
+  margin-left: 45%;
 }
 
 .video {
